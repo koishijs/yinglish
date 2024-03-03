@@ -7,4 +7,4 @@ https://github.com/RimoChan/yinglish
 
 ![image](https://github.com/koishijs/yinglish/assets/37006258/3915054d-98b6-4709-8a30-178a4bf7c15f)
 
-❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
+❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤❤
