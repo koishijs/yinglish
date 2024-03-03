@@ -1,6 +1,7 @@
 # koishi-plugin-yinglish
 
-[![npm](https://img.shields.io/npm/v/koishi-plugin-yinglish?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-yinglish)
+![莉沫酱可爱！](https://unv-shield.librian.net/api/unv_shield?repo=koishijs/yinglish&scale=4) [![npm](https://img.shields.io/npm/v/koishi-plugin-yinglish?style=flat-square)](https://www.npmjs.com/package/koishi-plugin-yinglish)
+
 
 https://github.com/RimoChan/yinglish
 
