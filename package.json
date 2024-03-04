@@ -8,12 +8,16 @@
     "lib",
     "dist"
   ],
-  "license": "MIT",
+  "license": "莉沫酱",
   "keywords": [
     "chatbot",
     "koishi",
     "plugin"
   ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koishijs/yinglish.git"
+  },
   "peerDependencies": {
     "koishi": "^4.17.1",
     "koishi-plugin-jieba": "^0.4.2"
