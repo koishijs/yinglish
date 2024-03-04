@@ -1,7 +1,7 @@
 {
   "name": "koishi-plugin-yinglish",
   "description": "淫语翻译机",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "main": "lib/index.js",
   "typings": "lib/index.d.ts",
   "files": [
@@ -16,10 +16,10 @@
   ],
   "peerDependencies": {
     "koishi": "^4.17.1",
-    "koishi-plugin-jieba": "^0.3.4"
+    "koishi-plugin-jieba": "^0.4.2"
   },
   "devDependencies": {
-    "koishi-plugin-jieba": "^0.3.4"
+    "koishi-plugin-jieba": "^0.4.2"
   },
   "koishi": {
     "service": {
